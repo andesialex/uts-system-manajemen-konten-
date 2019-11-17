@@ -1,0 +1,156 @@
+﻿
+ table {
+	margin-top:-10px;
+	margin-left:0px;
+ }
+ 
+ .logo{
+	margin-left:30px;
+	margin-top:5px;
+	float:left
+ }
+ .menu{
+	float:right;
+ }
+.icon_menu{
+	margin-top:5px;
+	margin-left: 35px;
+	width:30px;
+	height:30px;
+ }
+ .kotak_menu{
+	margin-top:5px;
+	float:right;
+	width :150px;
+	height:40px;
+	line-height:45px;
+	text-align:center;
+	margin-right:5px;
+ }
+ a {
+	color:white;
+	text-decoration:none;
+	text-decoration:none;
+	font-size:20px;
+ }
+ 
+ .link_menu:hover{
+	color:aqua;
+	font-size:30px;
+ }
+ 
+ 
+.content{
+	height:300px;
+	width:600px;
+	background-color:-moz-linier-gradien(right,blue,lime);
+	margin-top:25px;
+	margin-left:25%;
+	margin-right:25%;
+	align:center;
+}
+.kotak{ 
+	height:250px;
+	width:260px;
+	margin:auto;
+	margin-left:5px;
+	float:left;
+	background-color:dodgerblue;
+	border-radius:15px;
+	image-top:5px;
+	padding:33px;
+}
+
+.backkotak{
+	height:300px; width:1000px;
+	background-color:white;
+	margin:auto; 
+	margin-top:30px;
+}
+
+.frontkotak{
+	height:100px;
+	width:250px;
+	margin:auto;
+	margin-left:500px;
+	float:left;
+	background-color:white;
+	border-radius:15px;
+	
+	
+}
+
+.badan{
+	height:800px; width:800px;
+	border:1px solid rgb(204, 192, 31);
+	border-color:purple;
+	margin:auto;
+	background:windowframe;
+	margin-top:35px;
+}
+
+.badan_kotak1{ 
+	height:300px;
+	width:120px;
+	margin:auto;
+	margin-left:10px;
+	float:left;
+	background-color:dodgerblue;
+	margin-top:10px;
+	padding:33px;
+}
+	
+
+.badan_kotak2{ 
+	height:300px;
+	width:120px;
+	margin:auto;
+	margin-left:10px;
+	float:left;
+	background-color:dodgerblue;
+	margin-top:10px;
+	padding:33px;
+}
+
+.badan_kotak3{ 
+	height:340px;
+	width:314px;
+	margin:auto;
+	margin-left:10px;
+	float:left;
+	background-color:windowframe;
+	margin-top:10px;
+	padding:33px;
+}
+
+
+
+.badan_kotak4{ 
+	height:340px;
+	width:120px;
+	margin:auto;
+	margin-left:10px;
+	float:left;
+	background-color:dodgerblue;
+	margin-top:10px;
+	padding:33px;
+}
+
+ .link_badan:hover{
+	color:aqua;
+	image-size:30px;
+ }
+
+ 
+
+
+.footer{
+	height:30px;
+	width:800px;
+	background-color:blue;
+	margin:auto; 
+}
+.kosong{
+	height: 30px;
+
+}
